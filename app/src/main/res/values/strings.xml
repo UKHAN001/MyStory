@@ -6,4 +6,8 @@
     <string name="i_accept_terms">I accept terms and conditions</string>
     <string name="forgot_password">Forgot password</string>
     <string name="MainActivity">MainActivity</string>
+    <string name="home">home</string>
+    <string name="logout">logout</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
 </resources>
