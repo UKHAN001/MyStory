@@ -15,8 +15,9 @@ class SplashActivity : AppCompatActivity() {
 
     }
     private fun moveToLginScreen(){
-
+              /*لعمل تاخيير للاكواد*/
         Handler(Looper.myLooper()!!).postDelayed({
+            /* داله تستخدم لحذف الواجهة من الذاكرة*/
             finish()
             val i = Intent(this , LoginActtivity::class.java)
 

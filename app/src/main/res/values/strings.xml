@@ -10,4 +10,12 @@
     <string name="logout">logout</string>
     <string name="open">open</string>
     <string name="close">close</string>
+    <string name="enter_title">Enter Title Here</string>
+    <string name="enter_subtitle">Enter Sub-Title Here</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="add_story">Add Story</string>
+
+    <string name="story1_title">My first story</string>
+    <string name="story1_subtitle">This is subtitle</string>
+    <string name="story1_desc">This is bootcabp I learnt kotlin This is bootcabp I learnt kotlin This is bootcabp I learnt kotlin This is bootcabp I learnt kotlin This is bootcabp I learnt kotlin This is bootcabp I learnt kotlin This is bootcabp I learnt kotlin This is bootcabp I learnt kotlin This is bootcabp I learnt kotlin This is bootcabp I learnt kotlin This is bootcabp I learnt kotlin This is bootcabp I learnt kotlin This is bootcabp I learnt kotlin This is bootcabp I learnt kotlin This is bootcabp I learnt kotlin This is bootcabp I learnt kotlin This is bootcabp I learnt kotlin This is bootcabp I learnt kotlin This is bootcabp I learnt kotlin This is bootcabp I learnt kotlin This is bootcabp I learnt kotlin This is bootcabp I learnt kotlin This is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlinThis is bootcabp I learnt kotlin</string>
 </resources>

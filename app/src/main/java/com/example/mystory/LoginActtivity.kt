@@ -32,7 +32,7 @@ class LoginActtivity : AppCompatActivity() {
     }
     private fun login(){
         val arr:ArrayList<DataClassUser> = ArrayList()
-        arr.add(DataClassUser("a@1.com","1234"))
+        arr.add(DataClassUser("test@test.com","1234"))
         arr.add(DataClassUser("b@2.com","12345"))
         arr.add(DataClassUser("c@3.com","12346"))
 
@@ -46,11 +46,12 @@ class LoginActtivity : AppCompatActivity() {
                 if(userArray.email == user.email && userArray.password == user.password){
                  //   Toast.makeText(this,"Welcome${user.email}",Toast.LENGTH_LONG).show()
                      finish()
-                     val i = Intent(this,MainActivity::class.java)
+                    val i = Intent(this,MainActivity::class.java)
+                    /*لنقل المعلومات الى المكان المنقول*/
                     i.putExtra("email",userArray.email)
                     startActivity(i)
                     break
-                }else{Toast.makeText(this,"Check your data",Toast.LENGTH_LONG).show()}
+                }else{Toast.makeText(this,"Check your data",Toast.LENGTH_SHORT).show()}
                                  }
                                          }
                        }
